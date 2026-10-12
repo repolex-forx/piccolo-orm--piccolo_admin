@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/piccolo-orm/piccolo_admin/commit/d6053adc9f6d2db49cba9bcce97914ac3b2b989a",
       "git:hexsha": "d6053adc9f6d2db49cba9bcce97914ac3b2b989a",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.14.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.14.0",
+      "repolex:parsedAt": "2026-10-12T20:20:57.741162+00:00"
     },
     {
       "@id": "https://repolex.ai/r/piccolo-orm/piccolo_admin/commit/56d0b1a7bf80d3b2757bdf8d293bdd271c9cd468",
